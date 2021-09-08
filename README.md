@@ -1,1 +1,2 @@
-# gitamaeromodellingclub.github.io
+# gitamaeromodellingclubvzg.github.io
+ official site of GAMC
